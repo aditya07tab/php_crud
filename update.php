@@ -8,7 +8,7 @@ $name=$row['name'];
 $email=$row['email'];
 $mobile=$row['mobile'];
 $password=$row['password'];
-
+//hi
 if(isset($_POST['submit'])){
   $name=$_POST['name'];
   $email=$_POST['email'];
